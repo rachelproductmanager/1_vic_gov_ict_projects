@@ -1,4 +1,4 @@
-# 1_vic_gov_ict_projects
+# 1. VIC government's ICT projects as at 2020
 
 This project analyses the Victorian government's ICT dashboard which provides information on Victorian Government projects that have an ICT expenditure of $1M or more.
 
